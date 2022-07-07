@@ -1,0 +1,7 @@
+name=input("Enter your good name :- ")
+charecter=input("Enter a single charecter :- ")
+print(len(name))
+print(charecter.count("H"))
+name,char = input("Enter a comma seprated name and charter :> ").split(",")
+print(f"lenth of your name is {len(name)}")
+print(f"charecter count : {name.lower().count(char.lower())}")

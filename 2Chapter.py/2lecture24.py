@@ -1,0 +1,6 @@
+num_one,num_two,num_three=input("Enter three numbers").split(",")
+num_one=(input("Enter your first number"))
+num_two=(input("Enter your second number"))
+num_three=(input("Enter your third number"))
+Total=input((int(num_one) + int(num_two) + int(num_three))/3)
+print(f"The average of three numbers is {Total} ")

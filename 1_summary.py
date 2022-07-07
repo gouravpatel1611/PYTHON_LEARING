@@ -1,0 +1,5 @@
+print("hel\"hello\'lo")
+print("Line A\tLine B")
+print("Line A \\n Line B")
+print(r"this is double back slash\\\\")
+print(2**7)
