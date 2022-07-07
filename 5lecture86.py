@@ -2,7 +2,7 @@ fruits= ["mango" , "grapes"]
 fruits.append("apple")
 print(fruits)
 
-
+# fdkjglsdfjlkgdflkjglkdjslkfjlkdsjgkdfskjlglkds 
 
 cars=[]
 cars.append("toyota")
